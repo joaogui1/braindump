@@ -1,11 +1,11 @@
-baseURL = "https://braindump.jethro.dev/"
+baseURL = "https://sad-jennings-a25845.netlify.app/"
 languageCode = "en-us"
-title = "Jethro's Braindump"
+title = "joaogui1's Braindump"
 theme = "cortex"
 
 [params]
 attributions = "Website built with ♥ with Org-mode, Hugo, and Netlify."
-email = "jethrokuan95@gmail.com"
+email = "joaoguilhermearujo@gmail.com"
 
 [markup]
   [markup.goldmark]
